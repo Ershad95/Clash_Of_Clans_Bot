@@ -1,0 +1,58 @@
+2015-05-12 11:23:44 : ~~~~Welcome to Clash Game Bot EDITED RAOUFI v2.0!~~~~
+2015-05-12 11:23:44 : Edited by Ershad Roaufi
+2015-05-12 11:23:44 : Executable running on WIN_81  X64
+2015-05-12 11:23:44 : Bot is starting...
+2015-05-12 11:23:45 : Trying to locate Main Screen
+2015-05-12 11:23:46 : Main Screen Located
+2015-05-12 11:23:49 : Collecting Resources
+2015-05-12 11:24:04 : Village Report
+2015-05-12 11:24:04 : No. of Free/Total Builders: 0/3
+2015-05-12 11:24:04 : Opening Builder page to read Resources..
+2015-05-12 11:24:09 :  [G]: 727302 [E]: 932887 [D]: 5602 [GEM]: 20
+2015-05-12 11:24:13 : Trying to locate Main Screen
+2015-05-12 11:24:13 : Main Screen Located
+2015-05-12 11:24:13 : Creating Spells...
+2015-05-12 11:24:16 : Checking Army Camp...
+2015-05-12 11:24:18 : Total Army Camp capacity: 200/200
+2015-05-12 11:24:18 : Training Troops...
+2015-05-12 11:24:21 : Army Camp is Full
+2015-05-12 11:24:42 : Time until Next attack: 00:02:17
+2015-05-12 11:24:48 : Going to Attack...
+2015-05-12 11:24:55 : ============== Searching For All Bases ===============
+2015-05-12 11:24:55 : ~~~~~~~~~~~~~~~ SEARCH CONDITIONS ~~~~~~~~~~~~~~~~
+2015-05-12 11:24:55 : Meet: Gold or Elixir
+2015-05-12 11:24:55 : ~~~~~~~~~~~~~~ RESOURCE CONDITIONS ~~~~~~~~~~~~~~~
+2015-05-12 11:24:55 : Aim: [G]:  50000 [E]:  50000 [D]:    0 [T]: 0
+2015-05-12 11:24:55 : ==================================================
+2015-05-12 11:24:57 :   1> [G]:  42160 [E]: 308293 [D]: 1211 [T]:16
+2015-05-12 11:24:58 : ================ Search Complete =================
+2015-05-12 11:25:00 : Preparing to attack
+2015-05-12 11:25:00 : -Barbarians 53
+2015-05-12 11:25:01 : -Archers 102
+2015-05-12 11:25:01 : -Goblins 35
+2015-05-12 11:25:02 : -Hog Riders 2
+2015-05-12 11:25:02 : -King 
+2015-05-12 11:25:02 : -Heal Spell 1
+2015-05-12 11:25:05 :  ====== Start Attack ====== 
+2015-05-12 11:25:07 : ~Attacking on a single side...
+2015-05-12 11:25:08 : Dropping first wave of 27 Barbarians
+2015-05-12 11:25:11 : Dropping first wave of 51 Archers
+2015-05-12 11:25:15 : Dropping second wave of 27 Barbarians
+2015-05-12 11:25:18 : Dropping first wave of 18 Goblins
+2015-05-12 11:25:20 : Dropping first wave of 1 Heal Spell
+2015-05-12 11:25:20 : Dropping only wave of 2 Hog Riders
+2015-05-12 11:25:22 : Dropping second wave of 51 Archers
+2015-05-12 11:25:26 : Dropping second wave of 18 Goblins
+2015-05-12 11:25:31 : Dropping left over troops
+2015-05-12 11:25:31 : Checking remaining unused troops
+2015-05-12 11:25:33 : -King 
+2015-05-12 11:25:33 : -Rage Spell 0
+2015-05-12 11:25:37 : Checking remaining unused troops
+2015-05-12 11:25:38 : -King 
+2015-05-12 11:25:39 : -Rage Spell 0
+2015-05-12 11:25:43 : ~Finished Attacking, waiting to end battle
+2015-05-12 11:25:43 : Checking if the battle has finished
+2015-05-12 11:26:03 : Gold & Elixir change detected, waiting...
+2015-05-12 11:26:05 : Checking if the battle has finished
+2015-05-12 11:26:25 : Returning Home
+2015-05-12 11:26:29 : Taking snapshot of your loot
